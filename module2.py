@@ -1,7 +1,8 @@
-#integer value
-integerNumber = 1
+#first name
+firstName = "Mary"
 
-#floating point
-floatingPointNumber = 4.0
+#last name
+lastName = "Ivanov"
 
-print(integerNumber * floatingPointNumber)
+#first + last name combined
+print(firstName + " " + lastName)
